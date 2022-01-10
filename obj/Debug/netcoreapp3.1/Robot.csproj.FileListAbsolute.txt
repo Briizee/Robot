@@ -1,0 +1,16 @@
+C:\Users\Brianna\source\repos\Robot\bin\Debug\netcoreapp3.1\Robot.exe
+C:\Users\Brianna\source\repos\Robot\bin\Debug\netcoreapp3.1\Robot.deps.json
+C:\Users\Brianna\source\repos\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.json
+C:\Users\Brianna\source\repos\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.dev.json
+C:\Users\Brianna\source\repos\Robot\bin\Debug\netcoreapp3.1\Robot.dll
+C:\Users\Brianna\source\repos\Robot\bin\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.csprojAssemblyReference.cache
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.csproj.GenerateResource.cache
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfoInputs.cache
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfo.cs
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.csproj.CoreCompileInputs.cache
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.dll
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.genruntimeconfig.cache
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.FrmRobot.resources
+C:\Users\Brianna\source\repos\Robot\obj\Debug\netcoreapp3.1\Robot.Properties.Resources.resources
